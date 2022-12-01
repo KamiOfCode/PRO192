@@ -23,7 +23,7 @@ public class Main {
         System.out.println("List of name: ");
         
         for (int i = 0; i < n; i++) {
-            list[i] = sc.nextLine();
+            list[i] = sc.next();
         }
         
         for (int j = 0; j < n; j++) {
