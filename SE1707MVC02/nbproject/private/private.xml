@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group name="PRJ301">
+            <file>file:/D:/Fall23/PRJ301/SE1707MVC02/src/java/huylh/servlet/LoginServlet.java</file>
+            <file>file:/D:/Fall23/PRJ301/SE1707MVC02/web/invalid.html</file>
+            <file>file:/D:/Fall23/PRJ301/SE1707MVC02/src/java/huylh/util/DBHelper.java</file>
+            <file>file:/D:/Fall23/PRJ301/SE1707MVC02/src/java/registration/RegistrationDAO.java</file>
+            <file>file:/D:/Fall23/PRJ301/SE1707MVC02/src/java/huylh/servlet/ProcessServlet.java</file>
+            <file>file:/D:/Fall23/PRJ301/SE1707MVC02/web/login.html</file>
+            <file>file:/D:/Fall23/PRJ301/SE1707MVC02/web/WEB-INF/web.xml</file>
+            <file>file:/D:/Fall23/PRJ301/SE1707MVC02/web/search.html</file>
+        </group>
+        <group name="PRJ301_KhanhKT">
+            <file>file:/D:/Fall23/PRJ301/SE1707MVC02/src/java/huylh/servlet/LoginServlet.java</file>
+            <file>file:/D:/Fall23/PRJ301/SE1707MVC02/web/invalid.html</file>
+            <file>file:/D:/Fall23/PRJ301/SE1707MVC02/src/java/huylh/servlet/DispatchServlet.java</file>
+            <file>file:/D:/Fall23/PRJ301/SE1707MVC02/src/java/registration/RegistrationDAO.java</file>
+            <file>file:/D:/Fall23/PRJ301/SE1707MVC02/src/java/huylh/servlet/SearchLastnameServlet.java</file>
+            <file>file:/D:/Fall23/PRJ301/SE1707MVC02/web/login.html</file>
+            <file>file:/D:/Fall23/PRJ301/SE1707MVC02/src/java/registration/RegistrationDTO.java</file>
+            <file>file:/D:/Fall23/PRJ301/SE1707MVC02/web/search.html</file>
+        </group>
+    </open-files>
+</project-private>
